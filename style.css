@@ -1,3 +1,7 @@
+:selection {
+  background: #ff9ee4; /* Gold background for selected text */
+  color: #000000;    /* Black text for selected text */
+}
 body {
   color:black;
   background-image:url('https://i.ibb.co/99Q7dQkk/zcNQa.gif');
